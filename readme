@@ -1,0 +1,5 @@
+Uses Microsofts Communicator Api to automate Lync/communicator 2007.............Can be used to change the status to Busy/Do Not Disturb even when System is locked.Send bulk message to users.
+To Do::
+Right now send bulk message uses Sendkeys.....need to have application window in focus to send
+Using window handle need to find who sent the message and reply accordingly.........
+
